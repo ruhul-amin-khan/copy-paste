@@ -1,0 +1,16 @@
+.copy-paste{
+	width: 100%;
+	text-align: center;
+	margin:150px auto;
+}
+
+.table{
+	height: 250px;
+	width: 300px;
+	margin-left: 200px;
+}
+
+
+td{
+	color: coral;
+}
